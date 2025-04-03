@@ -7,11 +7,11 @@
 - [โครงสร้างของ Prompt ที่ดี](#โครงสร้างของ-prompt)
   - [👤 Persona](#-persona)
   - [🌍 Context](#-context)
-  - [🎯 Task / Instruction](#-task--instruction)
-  - [🧩 Constraints](#🧩-constraints)
-  - [📄 Format](#📄-format)
-  - [🎭 Tone](#🎭-tone)
-- [🧠 ตัวอย่าง Prompt ที่ครบทุกองค์ประกอบ](#🧠-ตัวอย่าง-prompt-ที่ครบทุกองค์ประกอบ)
+  - [🎯 Task](#-task)
+  - [🧩 Constraints](#-constraints)
+  - [📄 Format](#-format)
+  - [🎭 Tone](#-tone)
+- [🧠 ตัวอย่าง Prompt ที่ครบทุกองค์ประกอบ](#-ตัวอย่าง-prompt-ที่ครบทุกองค์ประกอบ)
 
 ---
 
